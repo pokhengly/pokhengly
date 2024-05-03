@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 08 July 2022 - To: 30 April 2024
+From: 08 July 2022 - To: 01 May 2024
 
-Total Time: 615 hrs 44 mins
+Total Time: 616 hrs 21 mins
 
-Java                  167 hrs 39 mins >>>>>>>------------------   27.23 %
-JavaScript            163 hrs 30 mins >>>>>>>------------------   26.56 %
-HTML                  124 hrs         >>>>>--------------------   20.14 %
-CSS                   57 hrs 26 mins  >>-----------------------   09.33 %
+Java                  167 hrs 39 mins >>>>>>>------------------   27.20 %
+JavaScript            163 hrs 32 mins >>>>>>>------------------   26.53 %
+HTML                  124 hrs 9 mins  >>>>>--------------------   20.15 %
+CSS                   57 hrs 26 mins  >>-----------------------   09.32 %
 XML                   19 hrs 27 mins  >------------------------   03.16 %
-TypeScript            16 hrs 37 mins  >------------------------   02.70 %
+TypeScript            16 hrs 43 mins  >------------------------   02.71 %
 ```
 
 <!--END_SECTION:waka-->
