@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 08 July 2022 - To: 07 April 2025
+From: 08 July 2022 - To: 08 April 2025
 
-Total Time: 992 hrs 15 mins
+Total Time: 992 hrs 53 mins
 
-JavaScript            293 hrs 39 mins >>>>>>>------------------   29.60 %
-Swift                 205 hrs 28 mins >>>>>--------------------   20.71 %
-Java                  167 hrs 50 mins >>>>---------------------   16.92 %
-HTML                  124 hrs 24 mins >>>----------------------   12.54 %
-CSS                   58 hrs 49 mins  >------------------------   05.93 %
-SQL                   27 hrs 44 mins  >------------------------   02.80 %
+JavaScript            293 hrs 39 mins >>>>>>>------------------   29.58 %
+Swift                 205 hrs 28 mins >>>>>--------------------   20.69 %
+Java                  167 hrs 50 mins >>>>---------------------   16.90 %
+HTML                  124 hrs 24 mins >>>----------------------   12.53 %
+CSS                   58 hrs 49 mins  >------------------------   05.92 %
+SQL                   27 hrs 44 mins  >------------------------   02.79 %
 ```
 
 <!--END_SECTION:waka-->
