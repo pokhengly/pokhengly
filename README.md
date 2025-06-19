@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 08 July 2022 - To: 16 June 2025
+From: 08 July 2022 - To: 17 June 2025
 
 Total Time: 999 hrs 44 mins
 
